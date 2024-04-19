@@ -1148,7 +1148,9 @@ footer {
   }
 
 
-
+main {
+    display:none;
+}
 
 
 
